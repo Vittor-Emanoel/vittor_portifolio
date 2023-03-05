@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const MenuContainer = styled.div`
   width: 100%;
   height: 100vh;
+
   position: absolute;
   top: 0px;
   z-index: 1;

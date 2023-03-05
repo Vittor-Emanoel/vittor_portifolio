@@ -11,7 +11,7 @@ export const GlobalStyle = createGlobalStyle`
           --webkit-font-smoothing: antialiased;
           background-color: #272727;
           color: #FFFFFF; 
-
+          line-height: 160%;
           }
           body, input, textarea, button {
           font-family: 'Poppins', sans-serif;
